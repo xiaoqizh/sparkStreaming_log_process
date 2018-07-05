@@ -1,6 +1,6 @@
 # Spark Streaming 流处理
 
-标签（）：  Spark Streaming Scala
+  Spark Streaming Scala
 
 ---
 flume->kafka->Spark Streaming ->SpringBoot
